@@ -1,3 +1,2 @@
 # Hello-WORLD
-Config files for my GitHub profile.
-test...
+This is my first repository ;)
